@@ -38,5 +38,16 @@
         "title":"Operating Systems",
         "set":["Windows","DOS","Linux","Mac"]
       }
+    ],
+    "achievements":[
+      {
+        "achievedData":"Got First Prize in PPT Presentation."
+      },
+      {
+        "achievedData":"Got Second Prize in Web Development."
+      },
+      {
+        "achievedData":"Got Third Prize in Programming Languages."
+      }
     ]
   }
